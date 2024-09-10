@@ -34,16 +34,7 @@ To get started with these exercises, follow these steps:
     ```
 
     Replace `exercise_name` with the appropriate file names.
-
-## Contributing
-
-Feel free to contribute by adding your own exercises or improving existing ones! To contribute:
-
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Make your modifications and test them.
-4. Submit a pull request with a clear description of your changes.
-
+   
 ## License
 
 This repository is licensed under the [MIT License].
